@@ -1,11 +1,11 @@
-# 360Interiors
+# 360 Interiors
 
- ![](360 interioirs homepage.png)
+ ![](intro_page.png)
 ----
 
 ## Introduction 
 
-This is a Power BI project on the sales and demography analysis of **360Interiors**, an interior company. The project's goal is to analyze and derive insights to answer crucial questions and help the company make data-driven decisions. 
+This is a Power BI project on the sales and demography analysis of **360 Interiors**, an interior company. The project's goal is to analyze and derive insights to answer crucial questions and help the company make data-driven decisions. 
 
 Power BI Concepts Applied:
 
@@ -44,8 +44,7 @@ EDA involves exploring the sales data to answer key questions such as;
 
 Automatically derived relationships are adjusted to remove and replace unwanted relationships with the required ones. 
 
-<img width="577" alt="360Interiors Star Schema" src="https://github.com/user-attachments/assets/61af0188-75a9-4189-8cea-0157b8be4baa" />
-
+![](star_schema.png)
 The model is a star schema. There are 5-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with a one-many relationship. 
 
 ## Visualization
@@ -58,7 +57,7 @@ The report comprises 2 pages:
 
 ### Sales Performance
 
-<img width="594" alt="Interior Sales Dashboard" src="https://github.com/user-attachments/assets/35202c04-417f-4b19-b968-3273cd9292dd" />
+![](sales_performance.png)
 
 
 1.	There are 1,202 orders with a worth of more than 470 thousand dollars.
@@ -67,8 +66,7 @@ The report comprises 2 pages:
    
 ### Demography Performance
 
-<img width="597" alt="Interior Demography Dashboard" src="https://github.com/user-attachments/assets/9b0dd4f8-4527-42c9-8de4-a890f130b201" />
-
+![](demography_performance.png)
 
 1.	The top profitable customer made a total purchase of $3,200 while the top active customer brought in $9,000 in purchase. 
 2.	The state of California brought in a total sale of $88,000 and a profit of $14,000 compared to the state of New York which brought in a total sale of $80,000 and a total profit of $19,000. 
@@ -85,7 +83,6 @@ The report comprises 2 pages:
 - Investigate the reason for the sudden fall in sales in October and how to mitigate the issue from happening again.
   
 
-![download (7)](https://github.com/user-attachments/assets/22eb6e2a-9ac9-4a8f-b711-0827cbcb8b17)
 
 
 

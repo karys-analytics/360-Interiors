@@ -82,7 +82,7 @@ The report comprises 2 pages:
 - Invest in marketing and promotion during peak sales season to maximize revenue.
 - Investigate the reason for the sudden fall in sales in October and how to mitigate the issue from happening again.
   
-
+![](thank_you.jpeg)
 
 
 

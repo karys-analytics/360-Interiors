@@ -1,7 +1,6 @@
 # 360Interiors
 
- <img width="501" alt="360 interioirs homepage" src="https://github.com/user-attachments/assets/26bcc3bf-c9d8-4fa5-b7c1-98adb348c4bc" />
-
+ ![](360 interioirs homepage.png)
 ----
 
 ## Introduction 

@@ -5,7 +5,7 @@
 
 ## Introduction 
 
-This is a Power BI project on the sales and demography analysis of **360 Interiors**, an interior company. The project's goal is to analyze and derive insights to answer crucial questions and help the company make data-driven decisions. 
+This is a Power BI project on the sales and demography analysis of **360 Interiors**, a furniture and fittings company. The project's goal is to analyze and derive insights to answer crucial questions and help the company make data-driven decisions. 
 
 Power BI Concepts Applied:
 
@@ -81,7 +81,8 @@ The report comprises 2 pages:
 - For a deep dive into the analytics, the datasets of the previous years will be required for comparison and data-driven decision-making. 
 - Invest in marketing and promotion during peak sales season to maximize revenue.
 - Investigate the reason for the sudden fall in sales in October and how to mitigate the issue from happening again.
-  
+
+
 ![](thank_you.jpeg)
 
 
